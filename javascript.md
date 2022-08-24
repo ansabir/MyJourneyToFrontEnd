@@ -2,11 +2,12 @@
 
 ## 1. Variables
     Variable are the placeholder for the value. To define the variable the use the 'let' and 'const' command
+
     ```
     let myName = 'Sabir'
     ```
-
     here myName is the name of the varible which holds the value of 'Sabir'
+
     ```
     const height = 1.74
     ```
@@ -24,9 +25,11 @@
     2.8 - Null
 
     ### 2.1:- String
-    String DataType is anything which is between single (' ') or double (" "). For examplel
+    String DataType is anything which is between single (' ') or double (" "). For example
+
     ```
     let myVarible  = 'Coding is Fun' 
     ```
+
     The sentend (coding is fun) is a string which is stored in myVariable
-    
+
